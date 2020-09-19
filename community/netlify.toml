@@ -1,0 +1,8 @@
+# Global settings applied to the whole site.
+[build]
+  base    = "/"
+  publish = "public/"
+  command = "yarn run setup && yarn run build-all"
+
+[context.production.environment]
+  APIHOST = "https://community.goupaz.com/"
