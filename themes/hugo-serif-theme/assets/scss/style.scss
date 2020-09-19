@@ -1,7 +1,7 @@
 // Colors
 $primary: #1165aa;
 $secondary: #f88379;
-$black: #2f2f41;
+$black: #1165aa;
 $white: #ffffff;
 $white-offset: #f6f7ff;
 $steel: #5C5A5A;
@@ -70,7 +70,7 @@ body {
 // Display breakpoints for DEV
 {{ if .Site.IsServer }}
 body:after {
-  color: #000000;
+  color: #1165aa;
   font-size: 12px;
   padding: 5px;
   font-weight: bold;
@@ -81,7 +81,7 @@ body:after {
   bottom: 10px;
   width: 200px;
   z-index: 9999;
-  border: solid 1px #000000;
+  border: solid 1px #1165aa;
   @each $name, $value in $grid-breakpoints {
     @include media-breakpoint-up($name) {
       content: '#{$name} - min-width: #{$value}';
