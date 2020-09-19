@@ -7,7 +7,7 @@ weight: 1
 ---
 
 
-- 1.5-2 hours webinar hosted by field experts. Desire to share, but the lack of community is not an issue anymore.
+1.5-2 hours webinar hosted by domain experts. Desire to share & learn but the lack of community is not an issue anymore.
 
 - [Host session](/02hero/howto/hostsession)
 

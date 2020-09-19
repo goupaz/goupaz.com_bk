@@ -23,5 +23,10 @@
         "name": "Slack",
         "link": "https://goupaz.slack.com",
         "image": "images/slack.svg"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/goupaz",
+        "image": "images/github.png"
     }
 ]

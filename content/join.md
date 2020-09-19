@@ -5,9 +5,14 @@ layout: contact
 menu: 'main'
 ---
 
-Join us:
+Hey, join us, it's fun :)
+
+![alt text](/images/hello.gif)
+
 
 [Slack](https://bit.ly/2wSJ5db)
+
+[Github](https://www.github.com/goupaz)
 
 [Youtube](https://www.youtube.com/goupaz)
 
