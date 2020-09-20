@@ -1,6 +1,6 @@
 # GOUP Community Board &emsp; 
 
-<-- [![TravisCI Build Status](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board.svg?branch=master)](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board) -->
+<!-- [![TravisCI Build Status](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board.svg?branch=master)](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board) -->
 
 A place for developers from the [**GOUP Community**](https://goupaz.slack.com) to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
 
