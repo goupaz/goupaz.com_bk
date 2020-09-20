@@ -67,3 +67,5 @@ yarn-error.log*
 1
 
 debug.log
+# Local Netlify folder
+.netlify
