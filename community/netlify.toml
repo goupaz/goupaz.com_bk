@@ -1,9 +1,8 @@
 [build]
   # Directory to change to before starting a build.
   # This is where we will look for package.json/.nvmrc/etc.
-  base = "community"
   command = "yarn build"
-  publish = "community/build"
+  publish = "build"
 
 
 [context.production.environment]
