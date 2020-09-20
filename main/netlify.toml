@@ -15,5 +15,13 @@
   to = "https://community.goupaz.com"
   status = 301
   force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
+#  headers = {X-From = "Netlify"}
+#  signed = "API_SIGNATURE_TOKEN"
+
+[[redirects]]
+  from = "/blog"
+  to = "https://blog.goupaz.com"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+#  headers = {X-From = "Netlify"}
+#  signed = "API_SIGNATURE_TOKEN"

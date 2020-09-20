@@ -10,10 +10,3 @@
     HUGO_BASEURL = "/"
 
 
-[[redirects]]
-  from = "/blog"
-  to = "https://blog.goupaz.com"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-#  headers = {X-From = "Netlify"}
-#  signed = "API_SIGNATURE_TOKEN"

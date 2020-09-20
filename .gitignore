@@ -10,6 +10,7 @@ tmp/
 .tools
 .htmlproofer
 main/public
+blog/public
 resources
 node_modules
 generated
