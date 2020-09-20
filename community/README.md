@@ -4,7 +4,7 @@
 
 A place for developers from the [**GOUP Community**](https://goupaz.slack.com) to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
 
-Link to the webpage: [**GOUP Community**](https://alumni-board.netlify.app/).
+Link to the webpage: [**GOUP Community**](https://community.goupaz.com).
 
 ### How to run the project in your local machine
 
