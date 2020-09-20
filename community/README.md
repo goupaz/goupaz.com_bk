@@ -46,7 +46,7 @@ To add your name to the list, simply open `persons.js` file in the `src/assets` 
 
 Please submit a Pull Request for your row to be added to this list. If you are unsure how to do this, please check out _Contributing To Open Source_ video in the course curriculum.
 
-- How to add profile image to your GOUP JobBoard profile using Github avatars.
+- How to add profile image to your GOUP Community Board profile using Github avatars.
 
 1. Go to your profile on GitHub.com
 2. Append to your GitHub profile url “.png”, so it will look like this:
