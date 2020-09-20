@@ -5,7 +5,7 @@ menu: 'main'
 ---
 
 <!-- {{< github_button button="follow"   user="goupaz" >}} -->
-{{< github_button button="sponsor"  user="goupaz" >}}
+{{< github_button button="sponsor"  user="sakomws" >}}
 {{< github_button button="star"     user="goupaz" repo="02hero" count="true" >}}
 {{< github_button button="fork"     user="goupaz" repo="02hero" count="true" >}}
 {{< github_button button="issue"    user="goupaz" repo="02hero" count="true" >}}
