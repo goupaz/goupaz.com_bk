@@ -40,7 +40,7 @@ archived_version
 
 # dependencies
 /community/node_modules
-/community/public
+
 # vscode settings
 .vscode
 
