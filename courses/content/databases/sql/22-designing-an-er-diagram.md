@@ -30,4 +30,4 @@ Employees can work with clients controlled by their branch to sell them stuff. I
 
 Many branches will need to work with suppliers to buy inventory. For each supplier we'll keep track of their name and the type of product they're selling the branch. A single supplier may supply products to multiple branches.
 ## Company ER Diagram
-{{< article-image abs-path="true" src="http://www.mikedane.com/databases/sql/company-erd.png" alt="An ER Diagram for a company">}}
+{{< article-image abs-path="true" src="https://courses.goupaz.com/databases/sql/company-erd.png" alt="An ER Diagram for a company">}}

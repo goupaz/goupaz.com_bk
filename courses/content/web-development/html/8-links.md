@@ -33,7 +33,7 @@ Above we have a link which points to McDonald's website. Fist notice that link t
 
 A lot of times, a link will just have text in it like in this case. But on many websites links will be disguised as buttons, navigation elements, or even images. 
 
-By default, browsers will apply some base styling to links. Generally it will color any link text blue, and might even change the color depending on whether the link has been visited before. All of this styling can be customized, but that's a topic for my {{< link href="https://www.mikedane.com/web-development/css" >}}CSS course{{< /link >}}. 
+By default, browsers will apply some base styling to links. Generally it will color any link text blue, and might even change the color depending on whether the link has been visited before. All of this styling can be customized, but that's a topic for my {{< link href="https://courses.goupaz.com/web-development/css" >}}CSS course{{< /link >}}. 
 
 In addition to adding the two `<a></a>` tags, all links need an `href` attribute. Href here stands for hypertext reference, which is just a fancy way of saying "where the link points to". Depending on where you want to link to, this value will change. 
 
@@ -88,7 +88,7 @@ You can link to non-html content that same way you link to html content, just be
 The code below for example will create a link to an image I have on this website:
 
 {{< code lang="html" >}}
-<a href="http://www.mikedane.com/databases/sql/erd-template.png">
+<a href="https://courses.goupaz.com/databases/sql/erd-template.png">
   SQL Diagram
 </a>
 {{< /code >}}
@@ -105,7 +105,7 @@ In order to do this we'll have to add a special attribute to the link tag called
 
 {{< code lang="html" >}}
 <a 
-  href="http://www.mikedane.com/databases/sql/erd-template.png"
+  href="https://courses.goupaz.com/databases/sql/erd-template.png"
   target="_blank"
 >
   SQL Diagram

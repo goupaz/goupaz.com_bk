@@ -16,7 +16,7 @@ weight: 15
 ## Code
 
 {{< code lang="html" >}}
-<iframe src="http://www.mikedane.com/"
+<iframe src="https://courses.goupaz.com/"
          frameborder="0"
          width="1000"
          height="800">

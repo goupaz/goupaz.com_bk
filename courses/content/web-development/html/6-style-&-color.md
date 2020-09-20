@@ -24,7 +24,7 @@ As an introduction to styling, let's look at some basic ways to add color to our
 <hr />
 One quick aside, website styling is a whole topic in itself. There is actually an entirely separate language that we can use to style sites called CSS (Cascading Style Sheet). 
 
-This lesson will introduce some very basic styling techniques, but if you want to learn more that just the bare basics, check out my {{< link href="https://www.mikedane.com/web-development/css" >}} CSS course {{< /link >}} (although I'd recommend finishing the HTML one first).
+This lesson will introduce some very basic styling techniques, but if you want to learn more that just the bare basics, check out my {{< link href="https://courses.goupaz.com/web-development/css" >}} CSS course {{< /link >}} (although I'd recommend finishing the HTML one first).
 <hr />
 
 ## Changing Text Color

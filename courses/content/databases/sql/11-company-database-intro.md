@@ -13,6 +13,6 @@ url: /databases/sql/company-database-intro/
 weight: 11
 ---
 
-[Click Here to Download PDF](http://www.mikedane.com/databases/sql/company-database.pdf)
-{{< article-image abs-path="true" src="http://www.mikedane.com/databases/sql/company-database.png" alt="A database schema for a company">}}
+[Click Here to Download PDF](https://courses.goupaz.com/databases/sql/company-database.pdf)
+{{< article-image abs-path="true" src="https://courses.goupaz.com/databases/sql/company-database.png" alt="A database schema for a company">}}
 

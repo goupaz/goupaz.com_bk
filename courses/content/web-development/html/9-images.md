@@ -22,7 +22,7 @@ In this lesson we'll dive into using images in our webpages. I'll show you how t
 HTML gives us a special tag that can be used just for images. Any time you want to display an image it needs to be displayed with this tag. Let's take a look at an example of displaying an image using the `img` tag.
 
 {{< code lang="html" >}}
-<img src="https://www.mikedane.com/web-development/html/introduction-to-html.png" />
+<img src="https://courses.goupaz.com/web-development/html/introduction-to-html.png" />
 {{< /code >}}
 
 Above we have an image tag which will display an image on the webpage. Notice first off that this is a non-container tag, it doesn't need a start and an end component. All images on the web are displayed just like this, and images can be places within any other HTML container tags.
@@ -77,7 +77,7 @@ This will display the image in the new width/height proportions. It's important 
 
 {{% spotlight %}}If you don't want to have to worry about this you can change either the width OR the height on their own, and HTML will automatically scale the opposite proportion to match (maintaining the aspect ratio).{{% /spotlight %}}
 
-This is the easiest way to control image size, however it's also possible to do this using something called CSS. CSS lets you style HTML elements, including images, in a very powerful way. I bring this up just incase you hear people mentioning it as a way to resize images. Although I'd strongly recommend you check out my {{< link href="https://www.mikedane.com/web-development/css" >}} CSS course {{< /link >}} after this one to learn more about it!
+This is the easiest way to control image size, however it's also possible to do this using something called CSS. CSS lets you style HTML elements, including images, in a very powerful way. I bring this up just incase you hear people mentioning it as a way to resize images. Although I'd strongly recommend you check out my {{< link href="https://courses.goupaz.com/web-development/css" >}} CSS course {{< /link >}} after this one to learn more about it!
 
 ### Alt
 
