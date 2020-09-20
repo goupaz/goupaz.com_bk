@@ -55,6 +55,11 @@ theme = "hugo-serif-theme"
       name = "Community"
       url = "/community"
       weight = 2
+  
+  [[menu.main]]
+      name = "Courses"
+      url = "/courses"
+      weight = 2
 
   # Footer Menu
   [[menu.footer]]

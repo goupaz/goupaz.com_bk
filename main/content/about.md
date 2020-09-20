@@ -4,6 +4,15 @@ date: 2018-02-22T17:01:34+07:00
 menu: 'main'
 ---
 
+<!-- {{< github_button button="follow"   user="goupaz" >}} -->
+{{< github_button button="sponsor"  user="goupaz" >}}
+{{< github_button button="watch"    user="goupaz" repo="02hero" count="true" >}}
+{{< github_button button="star"     user="goupaz" repo="02hero" count="true" >}}
+{{< github_button button="fork"     user="goupaz" repo="02hero" count="true" >}}
+{{< github_button button="issue"    user="goupaz" repo="02hero" count="true" >}}
+<!-- {{< github_button button="download" user="goupaz" repo="github-button-hugo-shortcode" >}}
+{{< github_button button="view"     user="goupaz" repo="02hero" >}} -->
+
 ## Who we are?
 The GOUP project is the idea of Azerbaijani tech community living abroad.
 
