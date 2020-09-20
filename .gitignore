@@ -11,6 +11,7 @@ tmp/
 .htmlproofer
 main/public
 blog/public
+courses/public
 resources
 node_modules
 generated

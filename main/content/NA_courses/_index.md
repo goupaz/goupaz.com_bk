@@ -1,5 +1,5 @@
 ---
-title: 'Courses'
+title: 'NA_Courses'
 # intro_image: "images/selection.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
