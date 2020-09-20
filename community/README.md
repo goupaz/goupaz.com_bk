@@ -1,12 +1,12 @@
-# ZtM-Job-Board &emsp; [![TravisCI Build Status](https://travis-ci.org/zero-to-mastery/ZtM-Job-Board.svg?branch=master)](https://travis-ci.org/zero-to-mastery/ZtM-Job-Board)
+# GOUP-Job-Board &emsp; [![TravisCI Build Status](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board.svg?branch=master)](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board)
 
-A place for developers from the [**Zero To Mastery Community**](https://zerotomastery.io/?utm_source=github&utm_medium=ZtM-Job-Board) to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
+A place for developers from the [**GOUP Community**](https://zerotomastery.io/?utm_source=github&utm_medium=GOUP-Job-Board) to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
 
-Link to the webpage: [**ZtM JOB Board**](https://alumni-board.netlify.app/).
+Link to the webpage: [**GOUP Community**](https://alumni-board.netlify.app/).
 
 ### How to run the project in your local machine
 
-- `git clone https://github.com/zero-to-mastery/ZtM-Job-Board.git`
+- `git clone https://github.com/zero-to-mastery/GOUP-Job-Board.git`
 
 - `yarn install` or `npm install`
 
@@ -44,7 +44,7 @@ To add your name to the list, simply open `persons.js` file in the `src/assets` 
 
 Please submit a Pull Request for your row to be added to this list. If you are unsure how to do this, please check out _Contributing To Open Source_ video in the course curriculum.
 
-- How to add profile image to your ZTM JobBoard profile using Github avatars.
+- How to add profile image to your GOUP JobBoard profile using Github avatars.
 
 1. Go to your profile on GitHub.com
 2. Append to your GitHub profile url “.png”, so it will look like this:
