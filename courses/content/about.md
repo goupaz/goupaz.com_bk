@@ -1,4 +1,4 @@
----
+<!-- ---
 date: 2017-07-20T10:02:20-04:00
 title: "About"
 seo_title: "About | GOUP"
@@ -21,4 +21,4 @@ Every piece of information I push out is completely free. There's no *premium* c
 ___
 If you'd like to get in touch with me you can send an email to:
 
-[goupaz.team@gmail.com](mailto:goupaz.team@gmail.com)
+[goupaz.team@gmail.com](mailto:goupaz.team@gmail.com) -->
