@@ -1,0 +1,7 @@
+baseURL : https://courses.goupaz.com/
+languageCode : en-us
+title : GOUP
+author : GOUP
+taxonomies: ""
+pygmentsstyle: default
+PygmentsCodeFences: true
