@@ -1,7 +1,7 @@
 baseURL : https://goupaz.com/
 languageCode : en-us
 title : Home
-author : GOUP
+author : Home
 taxonomies: ""
 pygmentsstyle: default
 PygmentsCodeFences: true
