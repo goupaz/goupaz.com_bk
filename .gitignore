@@ -9,7 +9,7 @@ tmp/
 .DS_Store
 .tools
 .htmlproofer
-public
+main/public
 resources
 node_modules
 generated
