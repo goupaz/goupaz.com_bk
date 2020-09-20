@@ -53,7 +53,7 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "Community"
-      url = "/community/"
+      url = "/community"
       weight = 2
 
   # Footer Menu
