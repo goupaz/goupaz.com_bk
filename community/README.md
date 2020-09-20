@@ -1,12 +1,14 @@
-# GOUP-Job-Board &emsp; [![TravisCI Build Status](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board.svg?branch=master)](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board)
+# GOUP Community Board &emsp; 
 
-A place for developers from the [**GOUP Community**](https://zerotomastery.io/?utm_source=github&utm_medium=GOUP-Job-Board) to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
+<--! [![TravisCI Build Status](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board.svg?branch=master)](https://travis-ci.org/zero-to-mastery/GOUP-Job-Board) -->
+
+A place for developers from the [**GOUP Community**](https://goupaz.slack.com) to show recruiters that they are available for hire. Feel free to contribute and improve this in any way you see fit.
 
 Link to the webpage: [**GOUP Community**](https://alumni-board.netlify.app/).
 
 ### How to run the project in your local machine
 
-- `git clone https://github.com/zero-to-mastery/GOUP-Job-Board.git`
+- `git clone https://github.com/goupaz/goupaz.com.git`
 
 - `yarn install` or `npm install`
 
@@ -49,7 +51,7 @@ Please submit a Pull Request for your row to be added to this list. If you are u
 1. Go to your profile on GitHub.com
 2. Append to your GitHub profile url “.png”, so it will look like this:
 
-https://github.com/aneta-s.png
+https://github.com/sakomws.png
 
 3. Hit enter and the browser will generate a page with your image, it look like this:
    https://avatars2.githubusercontent.com/u/54153719?v=4
