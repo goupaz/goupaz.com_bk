@@ -10,11 +10,3 @@
   YARN_VERSION = "1.22.5"
   NODE_VERSION = "14.11.0"
 
-
-[[redirects]]
-  from = "/community"
-  to = "https://community.goupaz.com"
-  status = 200
-  force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
